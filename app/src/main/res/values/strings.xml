@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Javines_myfirstapp</string>
+    <string name="helloWorld">Hello TVL - ICT!</string>
+    <string name="justineMSG">Gorabells</string>
 </resources>
